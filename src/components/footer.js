@@ -106,7 +106,7 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <a href="https://github.com/heytherevibin/heytherevibin.github.io">
-          <div>Designed &amp; Built by Brittany Chiang</div>
+          <div>Designed &amp; Built by Vibin Mathew</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">

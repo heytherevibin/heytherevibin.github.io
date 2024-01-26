@@ -5,7 +5,7 @@ module.exports = {
     title: 'Vibin Mathew',
     description:
       'Vibin Mathew is a Site Reliability engineer who specializes in maximize the engineering velocity of developer teams while keeping products reliable.',
-    siteUrl: '/', // No trailing slash allowed!
+    siteUrl: 'https://heytherevibin/heytherevibin.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@heytherevibin',
   },

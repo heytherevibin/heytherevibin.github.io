@@ -21,4 +21,4 @@ url: 'https://fiit.co.in'
 - Responsible to install/configure customer requested software/packages/tools on newly deployed or existing Linux servers.
 - Disk partition, LVM (create, extend, resize), NFS, DHCP, SAMBA configuration.
 - Virtualization on KVM, OpenVZ, Xen virtualization and wok
-- Responsible to install/configure/troubleshoot – Webserver's (Apache/Nginx), MySQL, Mailservers(Postfix/Sendmail), FTP servers (Pro-ftpd/Pure-ftpd/Vsftpd), DNS (Bind/MyDNS), Mail client IMAP/POP3 config, SSL certificates, OpenVPN, etc...ations
+- Proficient in installing, configuring, and troubleshooting various components such as web servers (Apache, Nginx), databases (MySQL), mail servers (Postfix, Sendmail), FTP servers (Pro-ftpd, Pure-ftpd, Vsftpd), DNS (Bind, MyDNS), mail client IMAP/POP3 configurations, SSL certificates, OpenVPN, and more.
